@@ -1,6 +1,6 @@
-# StockPricePredictor
+# StonksPricePredictor
 
-Stock Price Predictor written in Python
+Stock Price Predictor using machine learning
 
 Basically enter the company's ticker symbol : 
 
